@@ -1,4 +1,1 @@
-/counts/**
-!/counts/.gitkeep
-/downloads/**
-!/downloads/.gitkeep
+__pycache__/
