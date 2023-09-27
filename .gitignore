@@ -1,0 +1,4 @@
+/counts/**
+!/counts/.gitkeep
+/downloads/**
+!/downloads/.gitkeep
