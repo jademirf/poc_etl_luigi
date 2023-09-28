@@ -1,5 +1,9 @@
 # Simple LUIGI test
 
+## (optional) create a new virtual environment
+```bash
+python3 -m venv luigi-venv
+```
 ## install
 ```bash
 pip install -r requirements.txt
