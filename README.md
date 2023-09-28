@@ -4,7 +4,7 @@
 ```bash
 python3 -m venv luigi-venv
 ```
-## (optional) activate the newly venv
+## (optional) activate the newly created venv
 ```bash
 . luigi-venv/bin/activate
 ```
